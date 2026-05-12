@@ -213,6 +213,36 @@
   box-shadow: 0 4px 12px rgba(15, 23, 42, 0.05);
 }
 
+.exec-figure {
+  margin: 1.35rem 0 1.8rem;
+  padding: 0.8rem;
+  border: 1px solid var(--exec-border);
+  border-radius: 1.1rem;
+  background: rgba(255, 255, 255, 0.96);
+  box-shadow: var(--exec-shadow-soft);
+}
+
+.exec-figure-wide {
+  margin-top: 1rem;
+}
+
+.exec-figure img {
+  display: block;
+  width: 100%;
+  height: auto;
+  border-radius: 0.8rem;
+  background: #ffffff;
+}
+
+.exec-figure figcaption {
+  margin-top: 0.7rem;
+  color: var(--exec-muted);
+  font-size: 0.78rem;
+  font-weight: 650;
+  line-height: 1.45;
+  text-align: center;
+}
+
 @media screen and (min-width: 76.25em) {
   .md-sidebar--primary {
     border-right: 1px solid rgba(15, 23, 42, 0.06);

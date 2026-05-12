@@ -3,6 +3,11 @@
 !!! abstract "Objetivo"
     Criar diretrizes para adoção, desenvolvimento e uso de IA com segurança, padronização, rastreabilidade e inovação controlada.
 
+<figure class="exec-figure exec-figure-wide">
+  <img src="assets/images/niveisdeuodeIA.png" alt="Níveis de uso de IA, complexidade, autonomia, controle e risco" loading="lazy">
+  <figcaption>Níveis de uso de IA ajudam a traduzir governança em regras operacionais.</figcaption>
+</figure>
+
 ## Para que serve
 
 <div class="grid cards" markdown>
