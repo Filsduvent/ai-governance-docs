@@ -4,7 +4,7 @@
     IA sem governança gera produtividade aparente, mas aumenta risco, fragmentação e perda de controle institucional.
 
 <figure class="exec-figure exec-figure-wide">
-  <img src="assets/images/riscoseimpactosdfaltagov.png" alt="Riscos e impactos da falta de governança de IA" loading="lazy">
+  <img src="../assets/images/riscoseimpactosdfaltagov.png" alt="Riscos e impactos da falta de governança de IA" loading="lazy">
   <figcaption>Riscos operacionais, financeiros, regulatórios e reputacionais do uso de IA sem governança.</figcaption>
 </figure>
 
@@ -49,7 +49,7 @@
     Uma unidade usa IA generativa para documentos. Outra cria automações. Outra desenvolve aplicações com vibe coding. Todas ganham velocidade, mas nenhuma segue o mesmo padrão.
 
 <figure class="exec-figure">
-  <img src="assets/images/desejovsrealidade.png" alt="Comparação entre desejo e realidade no desenvolvimento de produtos com IA" loading="lazy">
+  <img src="../assets/images/desejovsrealidade.png" alt="Comparação entre desejo e realidade no desenvolvimento de produtos com IA" loading="lazy">
   <figcaption>Nem todo uso de IA gera valor real para o negócio.</figcaption>
 </figure>
 

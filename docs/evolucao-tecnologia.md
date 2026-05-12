@@ -4,7 +4,7 @@
     Entre 2024 e 2026, tecnologia deixou de ser apenas suporte operacional e passou a sustentar dados, inteligência e automação.
 
 <figure class="exec-figure exec-figure-wide">
-  <img src="assets/images/evolucaotecnologica.png" alt="Evolução da área de tecnologia de dados para IA e governança" loading="lazy">
+  <img src="../assets/images/evolucaotecnologica.png" alt="Evolução da área de tecnologia de dados para IA e governança" loading="lazy">
   <figcaption>Da base data-driven ao uso de IA com governança.</figcaption>
 </figure>
 
@@ -48,7 +48,7 @@
     Ferramentas generativas permitem criar textos, análises, códigos, automações e protótipos em ciclos muito mais curtos.
 
 <figure class="exec-figure">
-  <img src="assets/images/fundamentosdeAI.png" alt="Fundamentos de inteligência artificial, IA generativa, tokens e custo de uso" loading="lazy">
+  <img src="../assets/images/fundamentosdeAI.png" alt="Fundamentos de inteligência artificial, IA generativa, tokens e custo de uso" loading="lazy">
   <figcaption>Fundamentos de IA para uso consciente, eficiente e seguro.</figcaption>
 </figure>
 

@@ -4,7 +4,7 @@
     Governança de IA cria condições para inovar com segurança, padronização, rastreabilidade e alinhamento estratégico.
 
 <figure class="exec-figure exec-figure-wide">
-  <img src="assets/images/imagesemgovernancacomgovernanca.png" alt="Comparação entre uso de IA sem governança e com governança" loading="lazy">
+  <img src="../assets/images/imagesemgovernancacomgovernanca.png" alt="Comparação entre uso de IA sem governança e com governança" loading="lazy">
   <figcaption>O mesmo potencial de IA produz resultados diferentes conforme o modelo de governança.</figcaption>
 </figure>
 
@@ -55,7 +55,7 @@
     Começar com controles simples: registro de casos de uso, classificação de risco, ferramentas aprovadas e revisão humana para usos críticos.
 
 <figure class="exec-figure">
-  <img src="assets/images/porquegovernca.png" alt="Razões para adotar governança de IA no CSC" loading="lazy">
+  <img src="../assets/images/porquegovernca.png" alt="Razões para adotar governança de IA no CSC" loading="lazy">
   <figcaption>Governança transforma uso disperso de IA em capacidade corporativa.</figcaption>
 </figure>
 
