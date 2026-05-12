@@ -27,6 +27,9 @@ plugins:
   - search:
       lang: pt
 
+extra_css:
+  - stylesheets/extra.css
+
 nav:
   - Inicio: index.md
   - Contexto: contexto.md
