@@ -1,0 +1,22 @@
+site_name: AI Governance Docs
+site_description: Documentation about AI governance, policies and responsible use.
+site_url: https://filsduvent.github.io/ai-governance-docs/
+repo_url: https://github.com/Filsduvent/ai-governance-docs
+repo_name: Filsduvent/ai-governance-docs
+
+theme:
+  name: mkdocs
+
+nav:
+  - Inicio: index.md
+  - Contexto: contexto.md
+  - Evolucao da tecnologia: evolucao-tecnologia.md
+  - Uso sem governanca: uso-sem-governanca.md
+  - Uso com governanca: uso-com-governanca.md
+  - Politica de IA: politica-ia.md
+  - Referencias: referencias.md
+
+markdown_extensions:
+  - admonition
+  - toc:
+      permalink: true
