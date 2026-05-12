@@ -1,60 +1,64 @@
-# Uso com Governança
+# Com Governança
 
-## Governar não é bloquear
+!!! success "Mensagem principal"
+    Governança de IA cria condições para inovar com segurança, padronização, rastreabilidade e alinhamento estratégico.
 
-Governança de IA não deve ser entendida como barreira à inovação.
+## O modelo desejado
 
-O objetivo é criar um ambiente em que a empresa possa experimentar, aprender e escalar soluções com segurança.
+<div class="grid cards" markdown>
 
-!!! success "Princípio orientador"
-    A governança deve permitir inovação controlada, com padrões claros e responsabilidades definidas.
+-   **Padrões**
 
-## O que muda com governança
+    ---
 
-| Sem governança | Com governança |
+    Regras claras para ferramentas, dados, código e validação.
+
+-   **Segurança**
+
+    ---
+
+    Proteção de dados, controle de acesso e revisão proporcional ao risco.
+
+-   **Reuso**
+
+    ---
+
+    Soluções compartilhadas, documentadas e escaláveis.
+
+-   **Inovação controlada**
+
+    ---
+
+    Experimentação com limites, responsáveis e critérios de aprovação.
+
+</div>
+
+## Comparativo executivo
+
+| Dimensão | Sem governança | Com governança |
+| --- | --- | --- |
+| Ferramentas | Escolhas individuais | Catálogo aprovado |
+| Dados | Uso informal | Regras por sensibilidade |
+| Vibe coding | Criação rápida sem padrão | Revisão, documentação e controle |
+| IA generativa | Uso disperso | Diretrizes e rastreabilidade |
+| Risco | Pouco visível | Classificado e tratado |
+| Escala | Difícil reutilizar | Soluções padronizadas |
+
+## Controles essenciais
+
+!!! info "Governança mínima viável"
+    Começar com controles simples: registro de casos de uso, classificação de risco, ferramentas aprovadas e revisão humana para usos críticos.
+
+## Benefícios
+
+| Benefício | Resultado |
 | --- | --- |
-| Iniciativas isoladas | Portfólio coordenado de casos de uso |
-| Ferramentas escolhidas individualmente | Ferramentas avaliadas e aprovadas |
-| Baixa rastreabilidade | Registro de decisões, dados e responsáveis |
-| Risco pouco visível | Classificação de risco por caso de uso |
-| Soluções difíceis de manter | Padrões de desenvolvimento e documentação |
-| Conhecimento disperso | Reuso e compartilhamento de boas práticas |
+| Padronização | Menos duplicidade e mais consistência |
+| Segurança | Menor exposição de dados e ativos |
+| Rastreabilidade | Decisões auditáveis |
+| Alinhamento | IA conectada à estratégia |
+| Reuso | Ganho de escala entre unidades |
 
-## Elementos de um modelo governado
+## Mensagem final
 
-### 1. Diretrizes de uso
-
-Definir o que é permitido, o que exige aprovação e o que deve ser evitado.
-
-### 2. Classificação de risco
-
-Nem todo uso de IA tem o mesmo impacto. Casos simples podem ter controles leves; casos críticos exigem validação reforçada.
-
-### 3. Segurança e privacidade
-
-Estabelecer regras sobre dados sensíveis, informações internas, propriedade intelectual e uso de ferramentas externas.
-
-### 4. Rastreabilidade
-
-Registrar decisões, prompts relevantes, fontes de dados, responsáveis e validações realizadas.
-
-### 5. Reuso e padronização
-
-Evitar que múltiplas áreas construam soluções semelhantes sem coordenação.
-
-### 6. Supervisão humana
-
-Manter responsabilidade humana sobre decisões relevantes, especialmente quando houver impacto operacional, financeiro, jurídico ou reputacional.
-
-## Benefícios esperados
-
-- Mais segurança no uso de IA
-- Redução de duplicidade
-- Melhor aproveitamento de soluções internas
-- Escalabilidade de iniciativas bem-sucedidas
-- Alinhamento entre tecnologia, negócio, jurídico e segurança
-- Maior confiança nos resultados gerados por IA
-
-## Mensagem executiva
-
-Com governança, a IA deixa de ser uma prática informal e passa a ser uma capacidade corporativa.
+> Governança não reduz inovação. Governança transforma inovação dispersa em capacidade corporativa.

@@ -1,45 +1,48 @@
-# Política e Governança de IA
+# IA com Governança
 
-!!! abstract "Propósito da documentação"
-    Apoiar a criação de uma política corporativa para uso responsável, seguro e estratégico de Inteligência Artificial na empresa.
+!!! abstract "Mensagem principal"
+    A empresa saiu de um desafio de dados em 2024 para um desafio de IA em 2026. O próximo passo é transformar IA em capacidade corporativa, com governança, segurança e inovação controlada.
 
-## A mensagem central
+## A virada
 
-A empresa já viveu uma primeira virada: a necessidade de organizar seus dados.
-
-Em 2024, o desafio era data-driven. A resposta foi estruturar um datalake, centralizar informações e criar melhores condições para decisões baseadas em dados.
-
-Agora, em 2026, surge uma nova fronteira: o uso crescente de IA generativa, automações, assistentes, copilotos e práticas como vibe coding.
-
-A pergunta estratégica deixa de ser apenas **como usamos dados** e passa a incluir:
-
-> **Como usamos IA com produtividade, segurança, rastreabilidade e alinhamento com a estratégia da empresa?**
-
-## Linha narrativa
-
-| Período | Movimento | Resultado esperado |
+| Momento | Desafio | Resposta |
 | --- | --- | --- |
-| 2024 | Organização e integração de dados | Base corporativa mais confiável |
-| 2024-2026 | Evolução da área de tecnologia | Atuação mais orientada a dados e inteligência |
-| 2026 | Crescimento do uso de IA | Necessidade de política, governança e padrões |
+| 2024 | **data-driven problem** | Organizar dados e criar base comum |
+| 2024-2026 | Evolução tecnológica | Sair do operacional para inteligência aplicada |
+| 2026 | **IA generativa** e **vibe coding** | Criar política e governança de IA |
 
-## Dois caminhos possíveis
+## O ponto de decisão
 
-### Sem governança
+<div class="grid cards" markdown>
 
-- Soluções isoladas por unidade
-- Duplicidade de esforços
-- Risco de exposição de dados
-- Falta de rastreabilidade
-- Ausência de padrões técnicos e jurídicos
+-   **Sem governança**
 
-### Com governança
+    ---
 
-- Diretrizes claras de uso
-- Reuso de componentes e soluções
-- Segurança e controle proporcionais ao risco
-- Alinhamento com objetivos corporativos
-- Inovação com responsabilidade
+    Fragmentação, risco, duplicidade e soluções isoladas.
+
+-   **Com governança**
+
+    ---
+
+    Padronização, segurança, reuso e rastreabilidade.
+
+-   **Objetivo**
+
+    ---
+
+    Acelerar produtividade sem perder controle institucional.
+
+</div>
+
+## Conceitos-chave
+
+| Conceito | Papel na narrativa |
+| --- | --- |
+| **Datalake** | Base para integração e decisão orientada por dados |
+| **IA generativa** | Nova camada de produtividade e automação |
+| **Vibe coding** | Aceleração de criação de soluções com apoio de IA |
+| **Governança de IA** | Modelo para controlar risco e escalar inovação |
 
 !!! success "Resultado esperado"
-    Criar uma política de IA que permita acelerar inovação sem abrir mão de segurança, controle e coerência institucional.
+    Uma política de IA clara, aplicável e alinhada à estratégia da empresa.

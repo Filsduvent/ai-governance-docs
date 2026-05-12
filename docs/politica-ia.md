@@ -1,80 +1,75 @@
 # Política de IA
 
-## Objetivo da política
+!!! abstract "Objetivo"
+    Criar diretrizes para adoção, desenvolvimento e uso de IA com segurança, padronização, rastreabilidade e inovação controlada.
 
-A política de IA deve orientar o uso responsável, seguro e estratégico de Inteligência Artificial na empresa.
+## Para que serve
 
-Ela deve permitir produtividade e inovação, mas com regras claras para reduzir riscos e aumentar a confiança nos resultados.
+<div class="grid cards" markdown>
 
-!!! abstract "Objetivo executivo"
-    Estabelecer diretrizes para adoção, desenvolvimento, contratação e operação de soluções baseadas em IA.
+-   **Orientar**
 
-## Escopo sugerido
+    ---
 
-A política deve abranger:
+    Definir como colaboradores e unidades podem usar IA.
 
-- Colaboradores
-- Terceiros e fornecedores
-- Ferramentas generativas externas
-- Soluções internas com IA
-- Automação de processos
-- Vibe coding e desenvolvimento assistido por IA
-- Uso de dados corporativos em modelos e plataformas
+-   **Proteger**
+
+    ---
+
+    Reduzir exposição de dados, riscos jurídicos e falhas operacionais.
+
+-   **Escalar**
+
+    ---
+
+    Transformar boas iniciativas em soluções reutilizáveis.
+
+</div>
+
+## Escopo
+
+| Inclui | Exemplos |
+| --- | --- |
+| IA generativa | Chatbots, copilotos, geração de texto e análise |
+| Vibe coding | Código, scripts e protótipos criados com apoio de IA |
+| Automação | Processos internos com decisões ou recomendações automatizadas |
+| Dados corporativos | Uso de dados internos em ferramentas e modelos |
+| Fornecedores | Plataformas externas com recursos de IA |
 
 ## Princípios
 
-### Responsabilidade
+| Princípio | Diretriz |
+| --- | --- |
+| Responsabilidade | Todo uso relevante deve ter dono definido |
+| Segurança | Dados sensíveis exigem proteção e ferramenta aprovada |
+| Transparência | Pessoas devem saber quando IA está envolvida |
+| Rastreabilidade | Decisões e validações devem ser registradas |
+| Padronização | Soluções devem seguir padrões comuns |
+| Supervisão humana | IA apoia, mas não substitui responsabilidade humana |
 
-Toda solução ou uso de IA deve ter um responsável identificado.
+## Classificação de risco
 
-### Segurança
-
-Dados sensíveis, informações estratégicas e conteúdos confidenciais devem seguir controles adequados.
-
-### Transparência
-
-Usuários e áreas envolvidas devem compreender quando e como a IA está sendo utilizada.
-
-### Rastreabilidade
-
-Casos de uso relevantes devem manter registro de decisões, fontes, validações e responsáveis.
-
-### Supervisão humana
-
-A IA deve apoiar decisões, não substituir responsabilidade humana em contextos críticos.
-
-### Alinhamento estratégico
-
-Iniciativas de IA devem contribuir para objetivos corporativos e evitar duplicidade de esforços.
-
-## Classificação de casos de uso
-
-| Nível | Exemplo | Controle sugerido |
+| Nível | Uso típico | Controle |
 | --- | --- | --- |
-| Baixo risco | Apoio à redação, resumo de textos públicos | Boas práticas e orientação geral |
-| Médio risco | Análise de dados internos, automações operacionais | Registro, validação e aprovação da área responsável |
-| Alto risco | Decisões com impacto financeiro, jurídico, reputacional ou sobre pessoas | Avaliação formal, revisão humana e controles reforçados |
+| Baixo | Resumos, ideias, textos públicos | Orientação geral |
+| Médio | Dados internos, automações, relatórios | Registro e validação |
+| Alto | Impacto financeiro, jurídico, pessoas ou reputação | Aprovação formal e revisão humana |
 
-## Regras iniciais recomendadas
+## Regras iniciais
 
-- Não inserir dados sensíveis em ferramentas não aprovadas
-- Registrar casos de uso relevantes de IA
-- Validar resultados antes de uso executivo ou operacional
-- Revisar código gerado por IA antes de implantação
-- Evitar soluções isoladas quando houver potencial de reuso corporativo
-- Envolver tecnologia, segurança, jurídico e áreas de negócio conforme o risco
+!!! warning "Regras de partida"
+    Não inserir dados sensíveis em ferramentas não aprovadas. Não implantar código gerado por IA sem revisão. Não escalar solução sem documentação mínima.
 
-## Governança operacional
+## Operação da governança
 
-A política deve ser acompanhada por um modelo de operação:
+| Mecanismo | Função |
+| --- | --- |
+| Fórum de IA | Decidir prioridades e riscos |
+| Catálogo de casos de uso | Dar visibilidade e evitar duplicidade |
+| Lista de ferramentas aprovadas | Controlar segurança e conformidade |
+| Processo de avaliação | Classificar risco antes da escala |
+| Padrão de documentação | Garantir rastreabilidade |
 
-- Comitê ou fórum de governança de IA
-- Catálogo de casos de uso
-- Lista de ferramentas aprovadas
-- Processo de avaliação de risco
-- Padrões para documentação e auditoria
-- Rotina de revisão e atualização da política
-
-## Resultado esperado
-
-A política deve transformar o uso de IA em uma prática estruturada, segura e alinhada à estratégia da empresa.
+!!! success "Resultado esperado"
+    Uma política simples o suficiente para ser adotada e robusta o suficiente para proteger a empresa.

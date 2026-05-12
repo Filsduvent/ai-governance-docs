@@ -1,58 +1,58 @@
-# Evolução da Tecnologia
+# Evolução Tecnológica
 
-## 2024: a virada data-driven
+!!! abstract "Mensagem principal"
+    Entre 2024 e 2026, tecnologia deixou de ser apenas suporte operacional e passou a sustentar dados, inteligência e automação.
 
-Em 2024, a pauta central foi a organização dos dados.
+## Linha do tempo
 
-A empresa percebeu que, para evoluir, precisava consolidar informações, reduzir dispersão e criar uma visão mais integrada da operação.
+| Fase | Movimento | Maturidade esperada |
+| --- | --- | --- |
+| 2024 | **data-driven problem** | Reconhecer a necessidade de dados integrados |
+| 2024 | **datalake** | Centralizar e organizar informações |
+| 2025 | Dados e automação | Melhorar processos e decisões |
+| 2026 | **IA generativa** | Acelerar criação, análise e produtividade |
+| 2026+ | **governança de IA** | Escalar IA com controle e segurança |
 
-Esse foi o ponto de partida para uma lógica data-driven.
+## Mudança de lógica
 
-## O papel do datalake
+<div class="grid cards" markdown>
 
-O datalake representou uma infraestrutura de base.
+-   **Operacional**
 
-Ele permitiu reunir dados de diferentes origens, apoiar análises e criar um caminho para decisões mais consistentes.
+    ---
 
-!!! info "Mudança de mentalidade"
-    O dado passou a ser tratado como ativo estratégico, não apenas como subproduto dos sistemas.
+    Sistemas, suporte, manutenção e resposta a demandas.
 
-## 2024 a 2026: tecnologia mais estratégica
+-   **Data-driven**
 
-Nesse período, a área de tecnologia avançou em maturidade.
+    ---
 
-A atuação deixou de ser apenas operacional, centrada em suporte e manutenção, e passou a incorporar:
+    Dados integrados, indicadores e decisões mais consistentes.
 
-- Integração de dados
-- Automação de processos
-- Apoio à tomada de decisão
-- Visão de produto e plataforma
-- Uso de inteligência aplicada ao negócio
+-   **Inteligência aplicada**
 
-## 2026: a nova fronteira é IA
+    ---
 
-A chegada de IA generativa muda a velocidade da criação de soluções.
+    IA, automação, copilotos e soluções assistidas por modelos generativos.
 
-Hoje, uma unidade pode criar textos, análises, protótipos, scripts, automações e até aplicações internas com muito menos barreira técnica.
+</div>
 
-Esse cenário amplia produtividade, mas também reduz o controle quando não há padrões.
+## O acelerador de 2026
 
-## Vibe coding e ferramentas generativas
+!!! info "IA generativa"
+    Ferramentas generativas permitem criar textos, análises, códigos, automações e protótipos em ciclos muito mais curtos.
 
-Vibe coding representa uma nova forma de desenvolvimento assistido por IA, em que soluções são criadas de forma rápida, iterativa e orientada por linguagem natural.
+## O alerta
 
-Esse modelo acelera experimentação, mas pode gerar:
+!!! danger "Vibe coding sem controle"
+    Vibe coding pode acelerar soluções, mas também criar código sem revisão, dependências desconhecidas e baixa documentação.
 
-- Código sem revisão adequada
-- Dependências desconhecidas
-- Falhas de segurança
-- Soluções difíceis de manter
-- Decisões técnicas sem documentação
+## Decisão estratégica
 
-## Síntese estratégica
+| Se a empresa apenas libera | Se a empresa governa |
+| --- | --- |
+| Velocidade local | Escala corporativa |
+| Soluções isoladas | Reuso e padronização |
+| Risco pouco visível | Segurança e rastreabilidade |
 
-A evolução tecnológica trouxe a empresa até um ponto de inflexão.
-
-A pergunta agora é:
-
-> Como transformar IA em capacidade institucional, e não em um conjunto de iniciativas isoladas?
+> A evolução tecnológica só vira vantagem sustentável quando é acompanhada por governança.

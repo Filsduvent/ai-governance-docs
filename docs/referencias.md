@@ -1,49 +1,69 @@
 # Referências
 
-## Referências para construção da política
+!!! note "Uso executivo"
+    As referências abaixo apoiam a criação da política, mas devem ser adaptadas ao contexto, maturidade e risco da empresa.
 
-Esta página reúne fontes e frameworks que podem apoiar a criação de uma política corporativa de IA.
+## Frameworks de base
 
-!!! note "Uso das referências"
-    As referências devem ser adaptadas ao contexto da empresa, considerando maturidade tecnológica, exposição a riscos, obrigações legais e estratégia de negócio.
-
-## Frameworks e normas
-
-| Referência | Contribuição |
+| Referência | Uso na política |
 | --- | --- |
-| NIST AI Risk Management Framework | Estrutura para identificar, medir e gerenciar riscos de IA |
-| ISO/IEC 42001 | Sistema de gestão para inteligência artificial |
-| OECD AI Principles | Princípios internacionais para IA confiável |
-| UNESCO Recommendation on the Ethics of AI | Diretrizes éticas amplas para uso de IA |
-| Legislação de proteção de dados aplicável | Regras para privacidade, tratamento de dados e direitos dos titulares |
+| NIST AI Risk Management Framework | Gestão de risco em IA |
+| ISO/IEC 42001 | Sistema de gestão para IA |
+| OECD AI Principles | Princípios para IA confiável |
+| UNESCO Ethics of AI | Diretrizes éticas e sociais |
+| Leis de proteção de dados | Privacidade, segurança e direitos dos titulares |
 
-## Temas que devem ser acompanhados
+## Temas críticos
 
-- Privacidade e proteção de dados
-- Segurança da informação
-- Propriedade intelectual
-- Responsabilidade por decisões automatizadas
-- Uso de IA generativa em processos internos
-- Auditoria e explicabilidade
-- Gestão de fornecedores e ferramentas externas
-- Riscos de código gerado por IA
+<div class="grid cards" markdown>
 
-## Documentos internos recomendados
+-   **Segurança**
 
-A política de IA deve dialogar com documentos corporativos já existentes, como:
+    ---
 
-- Política de segurança da informação
-- Política de privacidade e proteção de dados
-- Código de conduta
-- Normas de desenvolvimento de software
-- Processo de gestão de fornecedores
-- Processo de gestão de riscos
+    Controle de dados, acessos, ferramentas e integrações.
+
+-   **Risco**
+
+    ---
+
+    Classificação de impacto e criticidade dos casos de uso.
+
+-   **Padronização**
+
+    ---
+
+    Regras comuns para documentação, validação e reuso.
+
+-   **Inovação controlada**
+
+    ---
+
+    Experimentar com velocidade sem perder governança.
+
+</div>
+
+## Documentos internos conectados
+
+| Documento | Relação com IA |
+| --- | --- |
+| Segurança da informação | Controles, acessos e proteção de ativos |
+| Privacidade e dados | Tratamento de dados pessoais e sensíveis |
+| Código de conduta | Uso ético e responsável |
+| Desenvolvimento de software | Revisão de código, testes e manutenção |
+| Gestão de fornecedores | Avaliação de plataformas externas |
+| Gestão de riscos | Critérios de impacto e mitigação |
 
 ## Próximos passos
 
-1. Validar a narrativa estratégica com as áreas envolvidas.
-2. Definir responsáveis pela governança de IA.
-3. Criar uma primeira versão da política.
-4. Mapear casos de uso existentes e planejados.
-5. Definir critérios de risco e aprovação.
-6. Comunicar diretrizes iniciais para toda a empresa.
+!!! tip "Roteiro recomendado"
+    Começar pequeno, com política inicial, catálogo de casos de uso e critérios simples de risco. Evoluir o modelo conforme a adoção de IA cresce.
+
+| Passo | Entrega |
+| --- | --- |
+| 1 | Validar narrativa estratégica |
+| 2 | Definir responsáveis por governança de IA |
+| 3 | Criar política inicial |
+| 4 | Mapear usos atuais de IA |
+| 5 | Classificar riscos |
+| 6 | Comunicar diretrizes para a empresa |
